@@ -1,0 +1,2 @@
+time,feature,component,id,parameter,value
+1,flow,node,2,real_power,-1.7072054128400858

@@ -1,0 +1,1 @@
+id,current,real_power_from,reactive_power_from,real_power_to,reactive_power_to,resistance,reactance,susceptance,rateA,rateB,rateC,ratio,angle,angmin,angmax

@@ -1,0 +1,11 @@
+time,feature,component,id,parameter,value
+2,system,-,-,reload,1
+2,topology,link,1,status,0
+2,topology,link,3,status,0
+2,topology,link,4,status,0
+2,topology,link,6,status,0
+2,topology,link,5,status,0
+2,topology,link,17,status,0
+2,topology,link,18,status,0
+2,topology,link,19,status,0
+
